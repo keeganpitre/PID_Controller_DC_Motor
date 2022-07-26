@@ -6,9 +6,7 @@ http://diptrace.com/download-diptrace/
 
 To change the response of the PD controller, in the .ino file you just have to vary the P_gain and the D_gain variables. 
 
-If you have any question feel free to message me through my youtube channel
-https://www.youtube.com/c/pitredesign
-or email: 
-pitredesign9@gmail.com  
+If you have any question feel free to message me through email: keeganpitre@hotmail.com
+
 
 
